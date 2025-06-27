@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @zodackwand (Roman). Currently studying CSE at the University of Warwick. Previously: CS at UCI.
+- 👋 Hi, I’m @zodackwand (Roman). Currently studying CompEng and Maths at the University of Warwick. Previously: CS at UCI.
 - 📫 How to reach me: roman.bikbulatov@warwick.ac.uk
